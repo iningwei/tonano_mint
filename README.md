@@ -1,3 +1,5 @@
+来源：https://medium.com/@tonx_fans/tonano-script-91167037a813
+
 
 # 1. 安装 Node.js
 
